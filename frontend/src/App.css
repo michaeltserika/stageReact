@@ -1,0 +1,43 @@
+.light-theme {
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.dark-theme {
+  background-color: #212529;
+  color: #f8f9fa;
+}
+
+.dark-theme .navbar-light .navbar-nav .nav-link {
+  color: #f8f9fa;
+}
+
+.dark-theme .navbar-light .navbar-brand {
+  color: #f8f9fa;
+}
+
+.dark-theme .table {
+  color: #f8f9fa;
+  background-color: #343a40;
+}
+
+.dark-theme .card {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+.dark-theme .modal-content {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+
+.dark-theme .form-control {
+  background-color: #495057;
+  color: #f8f9fa;
+  border-color: #6c757d;
+}
+
+.dark-theme .btn-outline-secondary {
+  color: #f8f9fa;
+  border-color: #f8f9fa;
+}
